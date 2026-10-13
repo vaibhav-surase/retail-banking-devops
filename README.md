@@ -183,23 +183,28 @@ Make sure the Helm values point to the correct ECR repository and image tag befo
 
 ### Jenkins pipeline — successful run
 
-![Jenkins pipeline stages showing a successful run](docs/images/jenkins-pipeline-stages.png)
+<img width="796" height="221" alt="jenkins-pipeline-stages" src="https://github.com/user-attachments/assets/befadc1b-9964-4da9-a2b5-1fe3e008ca9b" />
+
 
 ### Jenkins job — all stages green
 
-![Jenkins job stage view with successful stages](docs/images/jenkins-successful-build.png)
+<img width="1348" height="649" alt="jenkins-successful-build" src="https://github.com/user-attachments/assets/584756ac-d5cc-45bf-a208-13c871c9d6cb" />
+
 
 ### Spring Boot application running in Docker
 
-![Spring Boot startup logs from the Docker container](docs/images/spring-boot-container-logs.png)
+<img width="1354" height="630" alt="spring-boot-container-logs" src="https://github.com/user-attachments/assets/9a192029-512f-4454-a4b5-8941c5590dd8" />
+
 
 ### Docker image and ECR tag
 
-![Local Docker image and Amazon ECR-tagged image](docs/images/docker-images.png)
+<img width="1351" height="123" alt="docker-images" src="https://github.com/user-attachments/assets/aefb880b-a76a-4e76-92e9-9f1d3901c135" />
+
 
 ### AWS architecture overview
 
-![AWS architecture components for the project](docs/images/aws-architecture.png)
+<img width="374" height="413" alt="aws-architecture" src="https://github.com/user-attachments/assets/ab73e93e-2e68-4462-96b5-9d19620e193f" />
+
 
 ## Repository Structure
 
