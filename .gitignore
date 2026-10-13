@@ -8,3 +8,7 @@ target/
 terraform.tfstate
 terraform.tfstate.*
 .terraform.lock.hcl
+
+# Terraform variables may contain sensitive values
+*.tfvars
+*.tfvars.json

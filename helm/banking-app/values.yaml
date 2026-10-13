@@ -1,0 +1,10 @@
+replicaCount: 2
+
+image:
+  repository: 470451076070.dkr.ecr.ap-south-1.amazonaws.com/retail-banking-app
+  tag: "1.1"
+
+service:
+  type: LoadBalancer
+  port: 80
+  targetPort: 8081
